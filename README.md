@@ -1,4 +1,6 @@
-Diabetes Prediction Using Support Vector Machine (SVM)
+> *Educational project (2022). For production RAG/LLM work see [Electron](https://github.com/msabbaszadeh/Electron); for large-scale healthcare ML see [Cardiovascular ML](https://github.com/msabbaszadeh/Machine-learning-DNN-ETC-on-cardiovascular-disease-patients-data).*
+
+# Diabetes Prediction Using Support Vector Machine (SVM)
 
 This project focuses on predicting the outcome of diabetes based on various health parameters using a machine learning algorithm—specifically, a Support Vector Machine (SVM). The goal is to classify individuals as either diabetic or non-diabetic based on features such as glucose levels, age, BMI, and other health indicators. The dataset used in this project is the Pima Indians Diabetes Database, which contains information about 768 women with health data related to pregnancy, blood pressure, insulin, BMI, and more.
 
